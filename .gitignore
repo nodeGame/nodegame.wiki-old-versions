@@ -1,0 +1,16 @@
+.project
+.settings
+.idea
+
+*.tmp*
+*.csv
+*.swp
+.DS_Store
+\#*\#
+.\#*
+*~
+*.nddb
+_*
+
+Session.vim
+*.tar.gz
